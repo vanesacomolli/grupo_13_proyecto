@@ -1,4 +1,4 @@
-#Drink Shop :tw-1f377:
+#Drink Shop :
 
 #####Se trata de un negocio de bebidas y tragos (con y sin alcohol), multimarca, sin tiendas fijas, con un fuerte impacto en la actividad digital.
 ------------
@@ -22,7 +22,7 @@ En un futuro otorgar franquicias va a ser un punto a tener en cuenta para expand
 
 -----------------------------------------------
 
-####** Referentes:**:tw-1f44c:
+####** Referentes:**:
 ###### Sitios venta bebidas con alcohol
 ----------------------------------------------
 - https://vinotecaligier.com/ 
