@@ -2,7 +2,7 @@
 
 ##### Se trata de un negocio de bebidas y tragos (con y sin alcohol), multimarca, sin tiendas fijas, con un fuerte impacto en la actividad digital.
 ------------
-[========]
+
 
 ***PUBLICO Y BREVE DESCRIPCION DEL NEGOCIO***
 El público objetivo son consumidores entre 25 y 50 años. Este rango incorpora clientes de dos generaciones. 
