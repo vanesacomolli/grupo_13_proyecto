@@ -1,6 +1,6 @@
 # Drink Shop :
 
-#####Se trata de un negocio de bebidas y tragos (con y sin alcohol), multimarca, sin tiendas fijas, con un fuerte impacto en la actividad digital.
+##### Se trata de un negocio de bebidas y tragos (con y sin alcohol), multimarca, sin tiendas fijas, con un fuerte impacto en la actividad digital.
 ------------
 [========]
 
