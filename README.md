@@ -22,7 +22,7 @@ En un futuro otorgar franquicias va a ser un punto a tener en cuenta para expand
 
 -----------------------------------------------
 
-####** Referentes:**:
+#### Referentes:
 ###### Sitios venta bebidas con alcohol
 ----------------------------------------------
 - https://vinotecaligier.com/ 
