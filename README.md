@@ -5,6 +5,7 @@
 
 
 ***PUBLICO Y BREVE DESCRIPCION DEL NEGOCIO***
+
 El público objetivo son consumidores entre 25 y 50 años. Este rango incorpora clientes de dos generaciones. 
 Generacion X, migrantes digitales y acostumbrados a los grandes cambios en la comunicación moderna, mas la Generación Y (millennials), caracterizada por el uso de telefonos inteligentes como principal dispositivo.
 
