@@ -7,6 +7,10 @@
 Poseo estudios en Administracion de Empresas y un posgrado en  Procesos Educativos Mediados por Tecnologias.
 Apasionado de las nuevas tecnologias, siempre aprendiendo, con la idea de ayudar a organizaciones y personas a que tambien las incorporen a sus practicas y negocios.
 
+[Github](https://github.com/sergioGlant)
+
 **Vanesa Comolli**
 
 Estudiante en Digital House, comenzando en el nuevo mundo del desarrollo. 
+
+[Github](https://github.com/vanesacomolli)
