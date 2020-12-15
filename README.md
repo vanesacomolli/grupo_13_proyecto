@@ -31,7 +31,7 @@ En un futuro otorgar franquicias va a ser un punto a tener en cuenta para expand
 -----------------------------------------------
 ## Wireframes 
 
-[Wireframes]()
+[Wireframes](https://github.com/vanesacomolli/grupo_13_proyecto/tree/main/bocetos)
 
 -----------------------------------------------
 
