@@ -4,6 +4,7 @@
 ------------
 
 
+
 ***PUBLICO Y BREVE DESCRIPCION DEL NEGOCIO***
 
 El público objetivo son consumidores entre 25 y 50 años. Este rango incorpora clientes de dos generaciones. 
@@ -26,6 +27,11 @@ En un futuro otorgar franquicias va a ser un punto a tener en cuenta para expand
 ## Equipo de Desarrollo  y Diseño 
 
 [Staff](https://github.com/vanesacomolli/grupo_13_proyecto/blob/main/STAFF.md)
+
+-----------------------------------------------
+## Wireframes 
+
+[Wireframes]()
 
 -----------------------------------------------
 
